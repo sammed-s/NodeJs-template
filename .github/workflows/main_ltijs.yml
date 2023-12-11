@@ -59,4 +59,4 @@ jobs:
           app-name: 'ltijs'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2D7E3BA9F5A04A7E8C15EAFC2584053D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2C20B8BAA33E482FB92DA852C4A54EF3 }}
